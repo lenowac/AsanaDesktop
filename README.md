@@ -9,6 +9,8 @@ Here a walktrough in case you are new to node, npm and/or nativefier.
 0. Download the repo, extract it
 
 ### MacOS
+Gives you just the app, not the fancy disk image.
+
 **1. install [homebrew](https://brew.sh/)**
 
 **2. open terminal, run**
@@ -30,6 +32,8 @@ to set the icon input and build output for nativefier
 to build the thing   
 
 ### Windows
+Gives you just the app in a folder, no installer whatsoever.
+
 **1. install [chocolatery](https://chocolatey.org/)**
 
 **2. open  cmd or powershell as admin, run**
