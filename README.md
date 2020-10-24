@@ -3,13 +3,12 @@ Nothing fancy, just a simple build and some instructions.
 
 [MacOS](https://github.com/cyanit/asana-desktop/releases/download/1.0/asana-osx-v1.dmg) | [Windows](https://github.com/cyanit/asana-desktop/releases/download/1.0/asana-win-v1.zip)
 
-## Manual Build Instructions
-Here a walktrough in case you are new to node, npm and/or nativefier.
+**Manual Build Instructions** with an easy walktrough in case you are new to node, npm and/or nativefier.
 
-0. Download the repo, extract it
-
-### MacOS
+## MacOS
 Gives you just the app, not the fancy disk image.
+
+0. Download the repo, extract it   
 
 **1. install [homebrew](https://brew.sh/)**
 
@@ -31,8 +30,12 @@ to set the icon input and build output for nativefier
 
 to build the thing   
 
-### Windows
+
+
+## Windows
 Gives you just the app in a folder, no installer whatsoever.
+
+0. Download the repo, extract it   
 
 **1. install [chocolatery](https://chocolatey.org/)**
 
