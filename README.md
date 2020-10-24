@@ -1,5 +1,9 @@
-# asana-desktop
-Nothing fancy, just a simple build and some instructions.
+<p align="center">
+  <img src="https://github.com/cyanit/asana-desktop/blob/main/Icons/asana.png" width="256" height="256" />
+</p>
+
+# Asana Desktop
+Nothing fancy, just a simple electron build and some instructions.
 
 [MacOS](https://github.com/cyanit/asana-desktop/releases/download/1.0/asana-osx-v1.dmg) | [Windows](https://github.com/cyanit/asana-desktop/releases/download/1.0/asana-win-v1.zip)
 
