@@ -4,6 +4,10 @@ Nothing fancy, just a simple build script.
 I wish I could just upload the builds here, but they are too big for GitHub.
 
 ## Manual Build Instructions
+Here a walktrough in case you are new to node, npm and/or nativefier.
+
+0. Download the repo, extract it
+
 ### MacOS
 **1. install [homebrew](https://brew.sh/)**
 
