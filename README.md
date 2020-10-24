@@ -53,3 +53,6 @@ to set the icon input and build output for nativefier
 > nativefier --name "Asana" "https://app.asana.com" --min-width 750 --min-height 300 --single-instance --icon "Icons\asana.ico"  
 
 to build the thing   
+
+### Linux
+#ToDo
