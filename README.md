@@ -7,7 +7,7 @@ I wish I could just upload the builds here, but they are too big for GitHub.
 ### MacOS
 **1. install [homebrew](https://brew.sh/)**
 
-**2. open terminal, set up everything**
+**2. open terminal, run**
 > brew install node   
 
 to install nodejs   
@@ -28,7 +28,7 @@ to build the thing
 ### Windows
 **1. install [chocolatery](https://chocolatey.org/)**
 
-**2. open  cmd or powershell as admin, set up everything**
+**2. open  cmd or powershell as admin, run**
 > set-executionpolicy remotesigned   
 
 to enable signed remote powershell scripts   
