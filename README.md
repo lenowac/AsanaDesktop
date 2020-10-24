@@ -1,7 +1,7 @@
 # asana-desktop
-Nothing fancy, just a simple build script.
+Nothing fancy, just a simple build and some instructions.
 
-I wish I could just upload the builds here, but they are too big for GitHub.
+[MacOS](https://github.com/cyanit/asana-desktop/releases/download/1.0/asana-osx-v1.dmg) | [Windows](https://github.com/cyanit/asana-desktop/releases/download/1.0/asana-win-v1.zip)
 
 ## Manual Build Instructions
 Here a walktrough in case you are new to node, npm and/or nativefier.
