@@ -5,7 +5,7 @@
 # Asana Desktop
 Nothing fancy, just a simple nativefier build and some instructions how to do it from scratch.
 
-Download it for [MacOS](https://github.com/cyanit/asana-desktop/releases/download/1.0/asana-osx-v1.dmg) or [Windows](https://github.com/cyanit/asana-desktop/releases/download/1.0/asana-win-v1.zip)
+Download it for [MacOS](https://github.com/cyanit/asana-desktop/releases/download/1.0/asana-osx-v1.dmg) or [Windows](https://github.com/cyanit/asana-desktop/releases/download/1.0/asana-win-v1.zip).
    
 <br>
 <br>
