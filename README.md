@@ -3,10 +3,13 @@
 </p>
 
 # Asana Desktop
-Nothing fancy, just a simple electron build and some instructions.
+Nothing fancy, just a simple nativefier build and some instructions how to do it from scratch.
 
-[MacOS](https://github.com/cyanit/asana-desktop/releases/download/1.0/asana-osx-v1.dmg) | [Windows](https://github.com/cyanit/asana-desktop/releases/download/1.0/asana-win-v1.zip)
-
+Download it for [MacOS](https://github.com/cyanit/asana-desktop/releases/download/1.0/asana-osx-v1.dmg) or [Windows](https://github.com/cyanit/asana-desktop/releases/download/1.0/asana-win-v1.zip)
+   
+<br>
+<br>
+   
 **Manual Build Instructions** with an easy walktrough in case you are new to node, npm and/or nativefier.
 
 ## MacOS
