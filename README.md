@@ -1,4 +1,4 @@
-update: after years of refusing to do so, their dev team apparently figured out how to run some basic commands to wrap a [official client](https://asana.com/download). Good job, your team managed accomplish what a incompetent student did in a day. Well done. If you read this, don't get Asana. IMHO it's shit.
+update: after years of refusing to do so, their dev team apparently figured out how to run some basic commands to wrap an [official client](https://asana.com/download). Good job, your team managed accomplish what a incompetent student did in a day. Well done. If you read this, don't get Asana. IMHO it's shit.
 
 ----
 
