@@ -1,3 +1,7 @@
+update: after years of refusing to do so, their dev team apparently figured out how to run some basic commands to wrap a [official client](https://asana.com/download). Good job, your team managed accomplish what a incompetent student did in a day. Well done. If you read this, don't get Asana. IMHO it's shit.
+
+----
+
 <p align="center">
   <img src="https://github.com/cyanit/asana-desktop/blob/main/Icons/asana.png" width="256" height="256" />
 </p>
